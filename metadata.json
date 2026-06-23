@@ -1,0 +1,6 @@
+{
+  "name": "Kat Market Neo V2",
+  "description": "Redesigned, premium, next-generation marketplace ecosystem for vehicles, properties, businesses, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
